@@ -47,7 +47,7 @@ nextMeetupWhenLabel: "",
    * sure only the right person opens it. Leave "" to skip the PIN screen
    * entirely.
    */
-  accessPin: "112608" as string,
+  accessPin: "052625" as string,
   /** Optional hint shown on the lock screen to help them guess the PIN. Leave "" to hide it. */
   pinHint: "Hint: The day first message 💛",
 
